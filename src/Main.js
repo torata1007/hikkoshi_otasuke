@@ -1,10 +1,11 @@
-import React from 'react';
+import React from "react";
+import Sidebar from "./components/Sidebar";
+import './Main.css'
 
 function Main() {
   return (
-    <div>
-      <h1>This is the Main Component</h1>
-      {/* Add your main component content here */}
+    <div className="Main"> 
+      <Sidebar />
     </div>
   );
 }
