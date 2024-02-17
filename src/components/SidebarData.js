@@ -27,7 +27,7 @@ export const SidebarData=[
         link:"/map",
     },
     {
-        title:"チャット",
+        title:"tyatto",
         icon:<MarkUnreadChatAltIcon />,
         link:"/chat",
     },
