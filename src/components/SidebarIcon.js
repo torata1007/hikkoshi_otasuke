@@ -4,7 +4,7 @@ import Icon from "../images/IMG_1129.JPG";
 function SidebarIcon() {
   return (
     <div className="SidebarIcon">
-      <img src={Icon} />
+      <img src={Icon} alt="Sidebar Icon"/>
       <p>ジョージ</p>
     </div>
   );
