@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hikkoshi_otasuke/static/css/main.aa511fa6.css",
+    "main.js": "/hikkoshi_otasuke/static/js/main.d0ac9981.js",
+    "static/media/IMG_1129.JPG": "/hikkoshi_otasuke/static/media/IMG_1129.8bd0a334dfa599e30b57.JPG",
+    "index.html": "/hikkoshi_otasuke/index.html",
+    "main.aa511fa6.css.map": "/hikkoshi_otasuke/static/css/main.aa511fa6.css.map",
+    "main.d0ac9981.js.map": "/hikkoshi_otasuke/static/js/main.d0ac9981.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa511fa6.css",
+    "static/js/main.d0ac9981.js"
+  ]
+}
